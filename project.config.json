@@ -9,7 +9,7 @@
 	"compileType": "weapp",
 	"libVersion": "1.5.4",
 	"appid": "wx166da8b9080c8090",
-	"projectname": "wordpress",
+	"projectname": "BaohuaMoon",
 	"condition": {
 		"weapp": {
 			"current": -1,
